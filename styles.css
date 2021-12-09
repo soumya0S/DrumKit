@@ -1,18 +1,20 @@
 body {
   text-align: center;
-  background-color: #8c9ac0;
+  background-color: #8ab4ad;
 }
 
 h1 {
   font-size: 5rem;
-  color: #DBEDF3;
+  color: #2a3a2d;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 4px 1px #f1e471;
 
 }
 
 footer {
-  color: #DBEDF3;
+  color: #7fcde7;
+  text-shadow: 2px 1px #192ef0;
+  font-size: 30px;
   font-family: sans-serif;
 }
 
@@ -70,8 +72,8 @@ footer {
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
-  text-shadow: 3px 0 #DBEDF3;
+  color: #eff171;
+  text-shadow: 4px 1px  #2a3a2d;
   border-radius: 15px;
   display: inline-block;
   width: 150px;
